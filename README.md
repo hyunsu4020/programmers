@@ -1,2 +1,2 @@
 # programmers
-programmers 알고리즘 공부
+programmers python 알고리즘 공부
