@@ -14,4 +14,5 @@
     - [문자열을 정수로 바꾸기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12925.py)
     - [x만큼 간격이 있는 n개의 숫자](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12954.py)
     - [나머지가 1이 되는 수 찾기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/87389.py)
+    - [콜라츠 추측하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12943.py)
     
