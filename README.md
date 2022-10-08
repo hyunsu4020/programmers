@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Programmers&fontSize=70&animation=twinkling)
-### :memo: Table of Contents
+## :memo: Table of Contents
 
 - [python](#python)
     - [1 Level](https://github.com/hyunsu4020/programmers/tree/main/1%20Level)
