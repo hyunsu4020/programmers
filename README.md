@@ -2,7 +2,7 @@
 
 - [python](#python)
   <details>
-    <summary>[1 Level](https://github.com/hyunsu4020/programmers/tree/main/1%20Level)</summary>
+    <summary> - [1 Level](https://github.com/hyunsu4020/programmers/tree/main/1%20Level)</summary>
     - [짝수와 홀수](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12937.py)
     - [평균 구하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12944.py)
     - [약수의 합](https://github.com/hyunsu4020/programmers/commit/768e3d3b02a49975748693ca2a5abefd21cb45db)
