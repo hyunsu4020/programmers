@@ -24,3 +24,4 @@
         - [제일 작은 수 제거하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12934.py)
         - [음양 더하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/76501.py)
         - [없는 숫자 더하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/86051.py)
+        - [가운데 글자 가져오기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12903.py)
