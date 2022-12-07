@@ -6,6 +6,7 @@
     - [0 Level](https://github.com/hyunsu4020/programmers/tree/main/0%20Level)
         - [짝수 홀수 개수](https://github.com/hyunsu4020/programmers/blob/main/0%20Level/120824.py)
         - [피자 나눠 먹기 (1)](https://github.com/hyunsu4020/programmers/blob/main/0%20Level/120814%23.py)
+        - [배열 두배 만들기](https://github.com/hyunsu4020/programmers/blob/main/0%20Level/120809.py)
         
     - [1 Level](https://github.com/hyunsu4020/programmers/tree/main/1%20Level)
         - [짝수와 홀수](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12937.py)
