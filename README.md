@@ -41,3 +41,4 @@
         - [부족한 금액 계산하기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/82612.py)
         - [직사각형 별찍기](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12969.py)
         - [최대공약수와 최대공배수 12940번](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12940.py)
+        - [같은 숫자는 싫어 12906번](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12906.py)
