@@ -6,7 +6,7 @@ def solution(n, m):
         if n % i == 0 and m % i == 0:   
             answer.append(i)
             break
-    # 최대 공배수
+    # 최소 공배수
     for i in range(max(n, m), n*m+1):   # n과 m 중 큰 값 부터 n*m 값까지 i값에 반복
         if i % n == 0 and i % m == 0:
             answer.append(i)
