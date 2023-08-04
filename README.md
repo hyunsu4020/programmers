@@ -43,3 +43,4 @@
         - [최대공약수와 최대공배수 12940번](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12940.py)
         - [같은 숫자는 싫어 12906번](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12906.py)
         - [이상한 문자 만들기 12930](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12930.py)
+        - [예산 12982번](https://github.com/hyunsu4020/programmers/blob/main/1%20Level/12982.py)
